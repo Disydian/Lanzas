@@ -1,0 +1,20 @@
+
+
+modLoader="javafml"
+
+loaderVersion="[41,)"
+
+license="All Rights Reserved"
+
+[[mods]]
+modId= "lanzas"
+version="1.0.0.0"
+displayName="Lanzas"
+#updateJSONURL=""
+#displayURL=""
+logoFile=""
+credits=""
+authors="yo"
+description='''
+
+  '''
